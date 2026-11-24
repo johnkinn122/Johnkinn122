@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 💫 About Me:<br>👋 Hi, I'm Johnkinn<br>🔧 Mechanical Engineer | 💻Backend Developer<br>🌱 Currently learning **AI Engineering** and **DevOps**<br>⚡ Interested in Backend Development, Cloud, and Smart Factory Automation<br>📚 Always exploring new technologies and improving my craft
+# 💫 About Me:<br>👋 Hi, I'm Johnkinn<br>🔧 Mechanical Engineer | AI Engineer and ML Engineer 
 
 
 # 💻 Tech Stack:
